@@ -2,8 +2,6 @@
 ## Overview
 This project provides an interactive street-view style map of Altadena, specifically documenting the areas affected by the Eaton Fire. The map allows residents and community members to view street-level imagery captured starting January 12, 2024.
 
-![Community Photo Map Screenshot](screenshot.png)
-
 ## Purpose
 This tool was specifically created to help evacuated residents:
 - View their property remotely during evacuations
